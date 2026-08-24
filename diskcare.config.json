@@ -1,0 +1,15 @@
+{
+  "SchemaVersion": 1,
+  "ExecutionMode": "HARDEN_ONLY",
+  "AllowDestructiveActions": false,
+  "RequiredPhase4ExecutionMode": "PLAN_ONLY",
+  "RequiredApproval": "UNAPPROVED",
+  "RequiredExecutionAllowed": "NO",
+  "RequiredProposedAction": "NONE",
+  "BrowserProcesses": [
+    "chrome",
+    "msedge",
+    "firefox",
+    "brave"
+  ]
+}
